@@ -1,14 +1,14 @@
 {
-  "name": "portfolio-ideas",
+  "name": "Portfolio-Inspiration",
   "version": "0.0.1",
   "description": "A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜",
   "main": "index.js",
   "scripts": {
     "test": "echo \"no test available\"",
     "format": "prettier --write .",
-    "docs:dev": "vitepress dev docs",
-    "docs:build": "vitepress build docs",
-    "docs:serve": "vitepress serve docs",
+    "docs:dev": "AI Dispatch dev docs",
+    "docs:build": "AI Dispatch build docs",
+    "docs:serve": "AI Dispatch serve docs",
     "deploy": "./extract.sh",
     "prepare": "husky install"
   },
@@ -19,21 +19,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Evavic44/portfolio-ideas.git"
+    "url": "https://github.com/vchaitanyachowdari/Portfolio-Inspiration"
   },
   "keywords": [
     "portfolio",
-    "portfolio-ideas",
+    "Portfolio-Inspiration",
     "resume",
     "developer",
     "ideas",
     "inspiration",
     "designers"
   ],
-  "author": "Victor Eke",
+  "author": "V Chaitanya Chowdari",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Evavic44/portfolio-ideas/issues"
+    "url": "https://github.com/vchaitanyachowdari/Portfolio-Inspiration"
   },
   "homepage": "https://github.com/Evavic44/portfolio-ideas#readme",
   "devDependencies": {

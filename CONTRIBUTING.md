@@ -47,7 +47,7 @@ Add the live link to the portfolio website. PS: Omit the `https://` protocol on 
 Example:
 
 ```
-[victoreke.com](https://victoreke.com)
+[chowdari.in](https://chowdari.in)
 ```
 
 <!-- ![live-url.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1650498090936/9SxKjCC54.gif) -->
@@ -56,7 +56,7 @@ Example:
 
 If the portfolio is available on GitHub, post the repository link, if not, just write **"None"**
 
-`[GitHub](https://github.com/jemimaabu/portfolio)`
+`[GitHub](https://github.com/vchaitanyachowdari/portfolio)`
 
 ![repository.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1650498457473/89BPbVRg0.png)
 
@@ -74,21 +74,7 @@ Now we are done adding all the portfolio information, preview the portfolio adde
 
 If you need any adittional guide or help with any issues, feel free to contact me on [twitter](https://twitter.com/victorekea) and I'll answer ASAP. That's a promise 🤝🏽😊
 
-## Sponsor
-
-Wanna buy me a coffee, I'll sincerely appreciate it. Here's the link below.
-
-<a href="https://www.buymeacoffee.com/evavic44">
- <img width="150px" alt="bmc-button" src="https://user-images.githubusercontent.com/62628408/127788747-8850d386-fc61-4fff-b18f-8c5ee597be34.png">
-</a>
-
-<hr>
-I hope you have a lot of fun while contributing to this project, if you drew inspiration from any portfolio on this repo, consider starring this project or sending the creator a thank you message. I sincerely hope you build an amazing portfolio website that will blow the recruiter or visitor's mind. Goodluck. ⚡
-
-<hr>
-<img src="https://user-images.githubusercontent.com/62628408/163662723-96f828c7-a971-473a-83a0-33d23a0f7efe.png" alt="portfolio ideas comic">
-
 # Contributing
 
 We love pull requests from everyone. By participating in this project, you
-agree to abide by the [Code Of Conduct](https://github.com/Evavic44/portfolio-ideas/blob/main/CODE_OF_CONDUCT.md).
+agree to abide by the [Code Of Conduct](https://github.com/vchaitanyachowdari/Portfolio-Inspiration/blob/main/CODE_OF_CONDUCT.md).

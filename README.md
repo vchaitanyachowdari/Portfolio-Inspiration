@@ -10,13 +10,7 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 
 ## Contribute
 
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-
-[![All Contributors](https://img.shields.io/github/all-contributors/Evavic44/portfolio-ideas?style=flat-square&color=%23EE8449)](#contributors)
-
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
-<div>Want to add a portfolio to this list? read the <a href="https://github.com/Evavic44/portfolio-ideas/blob/main/CONTRIBUTING.md">guidelines</a> on how to do that.</div>
+<div>Want to add a portfolio to this list? read the <a href="https://github.com/vchaitanyachowdari/Portfolio-Inspiration/blob/main/CONTRIBUTING.md">guidelines</a> on how to do that.</div>
 <br>
 
 <!-- === ⭐ PORTFOLIO LINE START ⭐ === -->
@@ -410,4 +404,8 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 
 ## Suggestions
 
-Do you have any portfolio you want to see added but you can't add it yourself? Just mention it in this [issue](https://github.com/Evavic44/portfolio-ideas/issues/104) and it will be picked up by the community. You can also raise a PR to add any of the portfolios suggested here as well.
+Do you have any portfolio you want to see added but you can't add it yourself? Just mention it in this [issue](https://github.com/vchaitanyachowdari/Portfolio-Inspiration/issues) and it will be picked up by the community. You can also raise a PR to add any of the portfolios suggested here as well.
+
+## Contributors
+
+Thanks goes to these wonderful people. ([emoji key](https://allcontributors.org/docs/en/emoji-key)):

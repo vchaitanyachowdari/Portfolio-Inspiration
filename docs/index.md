@@ -9,6 +9,7 @@ hero:
     src: /header.png
     alt: Portfolio-ideas logo
   tagline: A curation of awesome portfolio website ideas for developers and designers to draw inspiration from.
+  By: V Chaitanya Chowdari
   actions:
     - theme: brand
       text: See Portfolios
@@ -45,7 +46,7 @@ head:
       content: https://user-images.githubusercontent.com/62628408/203779311-949cf214-92a7-4900-b997-55595fd12316.png
   - - meta
     - property: og:url
-      content: https://portfolio-ideas.vercel.app
+      content: https://portfolio-inspiration-opal.vercel.app/
   - - meta
     - name: title
       content: Portfolio-ideas

@@ -410,16 +410,8 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 
 ## Suggestions
 
-Do you have any portfolio you want to see added but you can't add it yourself? Just mention it in this [issue](https://github.com/Evavic44/portfolio-ideas/issues/104) and it will be picked up by the community. You can also raise a PR to add any of the portfolios suggested here as well.
+Do you have any portfolio you want to see added but you can't add it yourself? Just mention it in this [issue](https://github.com/vchaitanyachowdari/Portfolio-Inspiration/issues) and it will be picked up by the community. You can also raise a PR to add any of the portfolios suggested here as well.
 
-## Sponsor
-
-As you build your portfolio we hope you get that job or achieve what you want with it. Don't forget to star this project if you find it helpful.
-If you like this project and want to give back, consider buying me a coffee. I'll appreciate every cup. ☕
-
-<a href="https://buymeacoffee.com/victoreke">
-  <img width="170px" alt="bmc-button" src="https://user-images.githubusercontent.com/62628408/163418953-1d32bf9c-317b-44ca-b773-44e36140fc9d.png">
-</a>
 
 ## Contributors
 

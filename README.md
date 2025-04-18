@@ -412,7 +412,6 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 
 Do you have any portfolio you want to see added but you can't add it yourself? Just mention it in this [issue](https://github.com/vchaitanyachowdari/Portfolio-Inspiration/issues) and it will be picked up by the community. You can also raise a PR to add any of the portfolios suggested here as well.
 
-
 ## Contributors
 
 Thanks goes to these wonderful people. ([emoji key](https://allcontributors.org/docs/en/emoji-key)):

@@ -1,5 +1,29 @@
 ---
 layout: home
+title: Portfolio Inspiration
+description: A curated collection of beautiful developer portfolios for inspiration
+---
+
+# 🎨 Portfolio Inspiration
+
+A curated collection of beautiful developer portfolios to inspire your next project. Each portfolio showcases unique designs, technologies, and approaches to personal branding.
+___
+## 🛠 Tech Stack Categories
+
+### React/Next.js
+- Next.js, TypeScript, Tailwind CSS
+- Next.js, MDX, Prisma
+- React, Gatsby, Styled-components
+
+### Vue/Nuxt
+- Vue 3, Vite, TypeScript
+- Nuxt.js, GSAP, ThreeJS
+- Vue.js, Nuxt.js, Tailwind CSS
+
+### Creative Tech
+- Three.js, GSAP, WebGL
+- GLSL, Howler.js, Hammer.js
+- GSAP, LottieFiles, Framer Motion
 ---
 
 | Author                     | Screenshot                                                                                                                                                                | Live URL                                                                                                      | Repo                                                                         | Tech Stack                                                                                                     |
@@ -386,3 +410,17 @@ layout: home
 | Nat Anselm                 | ![nanselm-website](https://github.com/user-attachments/assets/b484c205-1fb2-4ff0-8ed0-ee4b8fee3c20)                                                                       | [nanselm.com](https://nanselm.com)                                                                            | None                                                                         | Astro, DaisyUI, TailwindCSS                                                                                    |
 | Uday G                     | ![Screenshot_15-4-2025_82636_portfoliov3-puce vercel app](https://github.com/user-attachments/assets/158b9d38-999b-4f03-8ec5-eba0bd98d947)                                | [portfoliov3-puce.vercel.app](https://portfoliov3-puce.vercel.app/)                                           | [GitHub](https://github.com/oxBinaryBrain/Portfoilo_v3)                      | TypeScript, CSS, Vercel, Vite, Nextjs                                                                          |
 | Utkarsh Singhal            | ![Utkarsh Singhal](https://github.com/user-attachments/assets/3ebb9e75-f9ac-4c9a-9fc9-9c77b044c28c)                                                                       | [utkarsh-singhal.is-a.dev](https://utkarsh-singhal.is-a.dev/)                                                 | [Github](https://github.com/Utkarsh-Singhal-26/portfolio)                    | Next.js, TypeScript, TailwindCSS, ShadCN UI, Vercel                                                            |
+___
+
+
+## 📝 Contributing
+
+Want to add your portfolio to this list? Please follow these steps:
+
+1. Fork this repository
+2. Add your portfolio information to the appropriate section
+3. Create a pull request with a clear description of your changes
+
+## 🙏 Acknowledgments
+
+Thanks to all the developers who have shared their amazing portfolios for inspiration!

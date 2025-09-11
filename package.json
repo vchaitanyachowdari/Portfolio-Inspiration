@@ -42,7 +42,7 @@
     "prettier": "^2.7.1"
   },
   "dependencies": {
-    "vitepress": "^1.0.0-alpha.29",
+    "vitepress": "^1.6.4",
     "vue": "^3.2.45"
   }
 }
